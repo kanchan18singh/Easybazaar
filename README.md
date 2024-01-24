@@ -8,7 +8,8 @@ Product Browsing: Easily navigate through product categories and view detailed i
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/kanchan18singh/easybazaar.git
+
   
 2. Open the project in your preferred code editor.
 
